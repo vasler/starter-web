@@ -1,0 +1,21 @@
+# This is Git's per-user configuration file.
+[user]
+#	name = Valentin Ašler
+#	email = valentin.asler@gmail.com
+# Please adapt and uncomment the following lines:
+	name = Ašler Valentin
+	email = Valentin.Asler@hpb.hr
+[core]
+	editor = vim
+[winUpdater]
+	recentlySeenVersion = 2.18.0.windows.1
+[alias]
+	hist = log --all --graph --oneline
+[merge]
+	tool = vimdiff
+[mergetool]
+	prompt = false
+[diff]
+	tool = vimdiff
+[difftool]
+	prompt = false
