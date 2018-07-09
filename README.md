@@ -9,3 +9,7 @@ Bla bla bla.
 Sample website with plenty of files for demos
 
 ## How To Contribute
+
+More bla bla bla..
+
+And more bla bla bla..
