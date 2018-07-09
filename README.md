@@ -5,6 +5,7 @@ Bla bla bla
 
 ## Purpose
 
+Bla bla bla.
 Sample website with plenty of files for demos
 
 ## How To Contribute
