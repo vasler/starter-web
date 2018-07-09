@@ -13,3 +13,7 @@ Sample website with plenty of files for demos
 More bla bla bla..
 
 And more bla bla bla..
+
+### Copyright
+
+2018 Git.Training
