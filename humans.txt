@@ -17,3 +17,5 @@
 # BLA BLA SECTION
 
     BLA
+    
+    Added one line on ORIGIN/MASTER for remote rebase example.
