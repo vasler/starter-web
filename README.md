@@ -4,6 +4,7 @@ This repository is for showing how Git and GitHub work
 Bla bla bla.
 Updating for emergency fix after stashing.
 Another line for branch stash example.
+Updating for tagging compare example.
 
 ## Purpose
 
