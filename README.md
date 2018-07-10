@@ -1,7 +1,8 @@
-# Starter Web Repo
+# Starter Web Project
 
 This repository is for showing how Git and GitHub work
-Bla bla bla
+Bla bla bla.
+Adding a line of text for rebasing example.
 
 ## Purpose
 
