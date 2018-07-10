@@ -14,9 +14,11 @@
 
     HTML5, CSS3
     jQuery, Modernizr
+    Git
 
 # BLA BLA SECTION
 
     BLA
     
     Added one line on ORIGIN/MASTER for remote rebase example.
+    Adding some text for multiple stash example.
