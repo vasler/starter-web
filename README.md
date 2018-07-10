@@ -2,7 +2,7 @@
 
 This repository is for showing how Git and GitHub work
 Bla bla bla.
-Adding a line of text for rebasing example, then more changes from myfeature branch too.
+Updating for emergency fix after stashing.
 
 ## Purpose
 
