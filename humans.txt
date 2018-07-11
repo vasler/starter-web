@@ -25,3 +25,5 @@
 
     Adding some text for amend demo.
     One more line for amend demo.
+
+    Commit #2 during squash activity
