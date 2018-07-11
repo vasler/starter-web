@@ -32,3 +32,8 @@
     Commit #3 during squash activity
 
     Commit #4 during squash activity
+
+
+
+
+    Rebase commit 1
