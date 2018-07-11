@@ -50,3 +50,10 @@
     Rebase commit 4
 
     Rebase commit 5
+
+
+    Rebase commit 6
+
+    Rebase commit 7
+
+    Rebase commit 8
