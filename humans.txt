@@ -41,3 +41,5 @@
     Rebase commit 2
 
     Rebase commit 3
+
+    Merge test commit 1
