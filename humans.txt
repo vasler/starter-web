@@ -22,3 +22,6 @@
     
     Added one line on ORIGIN/MASTER for remote rebase example.
     Adding some text for multiple stash example.
+
+    Adding some text for amend demo.
+    One more line for amend demo.
